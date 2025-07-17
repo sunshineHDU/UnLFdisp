@@ -1,6 +1,6 @@
 # UnLFdisp
 
-[**Wenhui Zhou**](https://faculty.hdu.edu.cn/jsjxy/zwh_en/main.htm), Lili Lin, Yongjie Hong, Qiujian Li, Xingfa Shen, and Ercan Engin Kuruoglu, [**Beyond Photometric Consistency: Geometry-based Occlusion-aware Unsupervised Light Field Disparity Estimation**](https://ieeexplore.ieee.org/document/10172242). IEEE Transactions on Neural Networks and Learning Systems, 2023. [MP4](https://faculty.hdu.edu.cn/_upload/article/videos/13/d3/7edf42a345ddab5a383b47a4703f/ca0e6827-5f04-4bee-87c8-153b2957dbbc.mp4)，https://ieeexplore.ieee.org/document/10172242 
+[**Wenhui Zhou**](https://faculty.hdu.edu.cn/jsjxy/zwh_en/main.htm), Lili Lin, Yongjie Hong, Qiujian Li, Xingfa Shen, and Ercan Engin Kuruoglu, [**Beyond Photometric Consistency: Geometry-based Occlusion-aware Unsupervised Light Field Disparity Estimation**](https://ieeexplore.ieee.org/document/10172242). IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(11): 15660--15674. [MP4](https://faculty.hdu.edu.cn/_upload/article/videos/13/d3/7edf42a345ddab5a383b47a4703f/ca0e6827-5f04-4bee-87c8-153b2957dbbc.mp4)，https://ieeexplore.ieee.org/document/10172242 
 
 ## Requirements
 
